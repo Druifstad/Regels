@@ -123,16 +123,6 @@ Discord strafsysteem
 
 Straffen op Discord werken als volgt:
 
-mondelinge waarschuwing;
-
-3 waarschuwingen die opgeslagen worden in de logs;
-
-7 dagen geblokkeerd
-
-7 dagen ban;
-
-permanente ban.
-
 Straffen, ook waarschuwingen, vervallen nooit en worden opgeslagen in de logs. Indien je van account wisselt, dan zijn de straffen die je op het vorige account hebt ontvangen nog steeds van toepassing.
 
 Indien het nodig is, dan kan er afgeweken worden van de standaardvolgorde van het strafsysteem in 9.01.
@@ -143,19 +133,9 @@ Je kunt in beroep gaan tegen een straf via het feedback systeem. Contacteer daar
 
 Er zijn verschillende straffen die worden gehanteerd op verschillende overtredingen. De straffen die u hieronder ziet is een opzetvoorbeeld van hoe wij onze straffen naleven. Houdt er rekening mee dat er verschillende straffen kunnen worden gegeven binnen hetzelfde onderwerp, bijvoorbeeld fail RP kan in veel verschillende manieren worden gepleegd en daarbij kan dus een straf gelden van enkele uren tot enkele dagen. Daarnaast zal uw geschiedenis worden gecontroleerd en kan uw straf hoger uitvallen wanneer er geconstateerd wordt dat u al meerdere keren geband bent geweest.
 
-
-[A] = 1 dag ban
-
-[B] = 3 dagen ban
-
-[C] = 1 week ban
-
-[D] = Permanente ban
-
-
 Nogmaals, de straffen kunnen per overtreding alsnog verschillen en ziet u bovenstaand een opzetvoorbeeld van hoe zwaar de straffen ongeveer gelden.
 
-Ten alle tijden in character blijven [A]
+Ten alle tijden in character blijven
 
 U dient ten alle tijden in uw roleplay character te blijven en uw RP niet te breken.
  
@@ -163,19 +143,19 @@ Wanneer iemand een van de regels overtreedt, wijs hem dan op de regels maar blij
 
 Probeer anderen niet te lokken om buiten RP te stappen.
 
-/OOC praten (out of character) [A]
+/OOC praten (out of character)
 
 /OOC is ervoor bedoeld om vragen te beantwoorden die niet kunnen verholpen worden in ons Discord kanaal of is bedoeld technische problemen te bespreken.
 
 /OOC is geen chatkanaal om een alledaags gesprek te voeren.
 
-Metagaming [C] of [D]
+Metagaming 
 
 Metagaming is het verkrijgen van informatie die niet in-game is verkregen, dit is ten strengste verboden.
 
 Het is verboden om via de Discord, streamersplatform of een ander platform te gebruiken om informatie in-game te achterhalen, bijvoorbeeld locaties, etc.
 
-Restarts [A]
+Restarts 
 
 De minuten vlak vóór een restart dienen serieus genomen te worden.
 
@@ -183,7 +163,7 @@ De roleplay mag niet worden verbroken i.v.m. een restart, enkel worden stilgeleg
 
 Het kloten vlak voor een restart is verboden, in deze tijd zullen dezelfde regels gelden als normaal.
 
-Fail RP / Powergaming [B] of [C]
+Fail RP / Powergaming
 
 Fail RP kan voorkomen in veel verschillende mogelijke manieren, echter is het wel verboden.
 
@@ -198,7 +178,7 @@ Manieren vinden om heel snel geld te farmen i.p.v. de roleplay van de job uit te
 
 Oftewel, het hanteren van eigen dingen die niet in de game toegevoegd zijn is verboden.
 
-Random Death Match (RDM) [B] of [C] & Vehicle Death Match (VDM) [D]
+Random Death Match (RDM) & Vehicle Death Match (VDM)
 
 Het aanvallen van een speler of groep spelers zonder enige reden is verboden en valt onder RDM.
 
@@ -208,7 +188,7 @@ Het random beginnen van een schiet of steekpartij zonder enige roleplay is verbo
 
 Het beuken (pitten) van een auto boven een snelheid van 100 km/uur is verboden en zal worden gezien als VDM.
 
-New Life Rule (NLR) [B]
+New Life Rule (NLR)
 
 Wanneer u bent gestorven in roleplay, dan bent u alle informatie kwijt dat heeft geleid naar de situatie waarin u bent gestorven. 
 
@@ -216,7 +196,7 @@ Wanneer u een nieuw leven start dan bent u eerder verkregen informatie kwijt en 
 
 Het overtreden van de ‘New Life Rule’ is verboden en zal worden gestraft wanneer wordt geconstateerd dat u gebruik maakt van informatie terwijl u dat vergeten hoort te zijn.
 
-No Value Of Life (NVOL) [B]
+No Value Of Life (NVOL)
 
 Wanneer u wordt bedreigd of uzelf in een situatie verkeerd waarin u gevaar loopt voor uw eigen leven dan zal u hier realistisch in moeten meewerken.
 
@@ -226,7 +206,7 @@ Het starten van een actie tijdens een scenario waarbij het uw eigen leven gaat k
 
 ### Greenzone
 
-GREENZONES [A] of [B]
+GREENZONES
 
 Greenzones zijn veilige zones waarin een persoon zich hoort te gedragen. In deze gebieden mogen geen criminele scenario's worden gestart en dergelijke.
 
