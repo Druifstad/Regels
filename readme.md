@@ -1,5 +1,4 @@
 # Druifstad Regels
-
 - [🌍 Server Regels](https://github.com/Druifstad/Regels#server-regels)
 - [❌ Hacking / Bug Exploits / Abuse](https://github.com/Druifstad/Regels#hacking-bug-exploit-abuse)
 - [🏃‍♂️Roleplay](https://github.com/Druifstad/Regels#roleplay)
@@ -20,7 +19,7 @@
 - [💥💢Regels omtrent gang War](https://github.com/Druifstad/Regels#regels-omtrent-gang-war)
 - [🚁 Vlieg(brevet) Regels](https://github.com/Druifstad/Regels#Vlieg-Regels)
 
-
+***
 ### Server regels
 
 Creëren van een karakter:
@@ -31,7 +30,7 @@ Wanneer uw character wilt verwijderen doe dan het volgende `/delchar`
 Bij het creëren van uw personage dient u rustig uw tijd te nemen. Zoek een leuke en passende outfit voor uzelf uit zodat u volwaardig de stad kunt betreden.
 
 Pas wel op bij het creëren van een outfit dat u geen overheidskleding aantrekt of attributen met betrekking tot politiekleding en dergelijke.
-
+***
 ### Hacking Bug Exploit Abuse
 
 Clientside scripts zijn ten strengste verboden.
@@ -41,27 +40,27 @@ U dient ten alle tijden een melding te maken van een bug of glitch die u hebt ge
 Wanneer u getuige bent bug abuse of glitch abuse of iets anders in deze richting dan dient u daar direct melding van te maken en het staffteam in te schakelen.
 **LET OP**:
 Wanneer u wordt gedetecteerd op gebruik van hacks/MOD menus/Cheatengine etc. Dan zult u worden geplaatst op een black list. Deze black list staat bekend bij meerdere steden en houdt in dat wanneer u op deze lijst wordt gezet u per direct geband zal worden in meerdere steden.
-
+***
 ### Roleplay
 
-Druifstaf hanteert de Nederlandse wetgeving en verkeersregels.
+Druifstad hanteert de Nederlandse wetgeving en verkeersregels.
 U dient ten alle tijden waarde te hechten aan uw eigen leven.
 Bedrijfsvoertuigen mogen enkel worden gebruikt voor de job waar ze voor bedoeld zijn.
 Een bedrijfsvoertuig mag niet worden vervangen met gebruik van een privéwagen.
 Het stelen van andermans voertuig ZONDER RP is verboden.
 AFK geld farmen is verboden.
 Het verklappen van locaties buiten in-game activiteiten is verboden.
-
+***
 ### Speler reports en staff
 
 Wanneer u een vraag of een probleem ervaart in-game dan kunt u het staffteam contacteren door middel van de chatbalk te openen en vervolgens /assist (plaats hierin uw vraag of probleem) of /report (plaats hierin uw vraag of probleem) te typen. Het is van belang om hier kort en krachtig uw probleem te beschrijven zodat de juiste persoon ter plaatse kan komen om u te helpen.
 Een scenario MOET worden afgemaakt voordat het wordt beoordeeld door een stafflid. Echter wanneer een staff constateert dat het scenario uit de hand loopt dan mag deze nietig worden verklaard.
 Toon respect voor de staff van de stad aangezien dit de mensen zijn die voor u klaar staan en er zijn om u te helpen! 
 Wanneer u toch een vraag heeft die in-game niet opgelost kan worden, dan verzoeken wij u vriendelijk naar de Discord wachtkamer te komen waar we een gesprek kunnen voeren en een oplossing kunnen vinden.
-
+***
 ### Discord regels
 
- Algemene regels 
+ #### Algemene regels 
 
  De Terms of Service en Community Guide Lines van Discord zullen strikt gehandhaafd worden.
 	Uitzonderingen van de regels kunnen bepaald worden door Staff.
@@ -79,15 +78,8 @@ Discussies die leiden tot onrust, waaronder het voeren van discussies over polit
 
 Het delen van persoonlijk identificeerbare informatie (bijvoorbeeld naam, adres, e-mail, telefoonnummer, etc.) van jezelf of andere gebruikers.
 
-Microfoon en geluid
 
-Muziek mag enkel in het muziek spraakkanaal afgespeeld worden.
-
-Het afspelen van muziek buiten het muziek spraakkanaal, het gebruik van stemvervormers en soundboards.
-
-Het afspelen of toevoegen van muziek dat vulgair taalgebruik bevat of abnormaal lang duurt (>10 minuten).
-
-Adverteren
+#### Adverteren
 
 Adverteren is niet toegestaan, met uitzondering van:
 
@@ -97,13 +89,14 @@ Iedere vorm van dienstverlening (gratis of betaald), onder meer het adverteren v
 
 Ongevraagd uitnodigingen en/of advertenties naar anderen via directe berichten versturen.
 
-Gebruikersnamen en bijnamen
+
+#### Gebruikersnamen en bijnamen
 
 Gebruikersnamen mogen enkel alfanumerieke karakters bevatten. Emojis mogen gebruikt worden in je naam, mits deze gecombineerd worden met enkele alfanumerieke karakers.
 
 Avatars moeten geschikt zijn voor alle leeftijden en voor op het werk. Ze mogen dus niet ongepast zijn of sexuele of bloederige inhoud bevatten. Hoewel we niet iedere uitzondering kunnen dekken in deze regel, zal het toegepast worden in de context van hoe de avatar gebruikt wordt.
 
-Ongepaste inhoud
+#### Ongepaste inhoud
 
 Het posten van ongepaste inhoud. Dit omvat (maar beperkt zich niet tot) het delen of posten van epilepsie uitlokkende, expliciete, ongepaste of pornografische inhoud en het distribueren van media van dit karakter.
 
@@ -113,13 +106,13 @@ Het gebruik van IP trackers of andere kwaadaardige verzameltools is ten strengst
 
 Het bespreken of voorstellen van bovenstaande zaken is niet toegestaan.
 
-Sollicitatie's, bans en in-game gebeurtenissen
+#### Sollicitatie's, bans en in-game gebeurtenissen
 
 Het bespreken van straffen, reports, tickets, appeals, sollicitaties en klachten over stafleden is niet toegestaan.
 
 Game Moderators verzoeken om bepaalde gebieden in het spel te modereren is niet toegestaan. Gebruik daarvoor het in-game of het web report systeem.
 
-Discord strafsysteem
+### Discord strafsysteem
 
 Straffen op Discord werken als volgt:
 
@@ -142,20 +135,14 @@ U dient ten alle tijden in uw roleplay character te blijven en uw RP niet te bre
 Wanneer iemand een van de regels overtreedt, wijs hem dan op de regels maar blijf tegelijkertijd in uw character rol.
 
 Probeer anderen niet te lokken om buiten RP te stappen.
-
-/OOC praten (out of character)
-
-/OOC is ervoor bedoeld om vragen te beantwoorden die niet kunnen verholpen worden in ons Discord kanaal of is bedoeld technische problemen te bespreken.
-
-/OOC is geen chatkanaal om een alledaags gesprek te voeren.
-
-Metagaming 
+***
+#### Metagaming 
 
 Metagaming is het verkrijgen van informatie die niet in-game is verkregen, dit is ten strengste verboden.
 
 Het is verboden om via de Discord, streamersplatform of een ander platform te gebruiken om informatie in-game te achterhalen, bijvoorbeeld locaties, etc.
 
-Restarts 
+#### Restarts 
 
 De minuten vlak vóór een restart dienen serieus genomen te worden.
 
@@ -163,7 +150,7 @@ De roleplay mag niet worden verbroken i.v.m. een restart, enkel worden stilgeleg
 
 Het kloten vlak voor een restart is verboden, in deze tijd zullen dezelfde regels gelden als normaal.
 
-Fail RP / Powergaming
+#### Fail RP / Powergaming
 
 Fail RP kan voorkomen in veel verschillende mogelijke manieren, echter is het wel verboden.
 
@@ -178,7 +165,7 @@ Manieren vinden om heel snel geld te farmen i.p.v. de roleplay van de job uit te
 
 Oftewel, het hanteren van eigen dingen die niet in de game toegevoegd zijn is verboden.
 
-Random Death Match (RDM) & Vehicle Death Match (VDM)
+#### Random Death Match (RDM) & Vehicle Death Match (VDM)
 
 Het aanvallen van een speler of groep spelers zonder enige reden is verboden en valt onder RDM.
 
@@ -188,7 +175,7 @@ Het random beginnen van een schiet of steekpartij zonder enige roleplay is verbo
 
 Het beuken (pitten) van een auto boven een snelheid van 100 km/uur is verboden en zal worden gezien als VDM.
 
-New Life Rule (NLR)
+#### New Life Rule (NLR)
 
 Wanneer u bent gestorven in roleplay, dan bent u alle informatie kwijt dat heeft geleid naar de situatie waarin u bent gestorven. 
 
@@ -196,14 +183,14 @@ Wanneer u een nieuw leven start dan bent u eerder verkregen informatie kwijt en 
 
 Het overtreden van de ‘New Life Rule’ is verboden en zal worden gestraft wanneer wordt geconstateerd dat u gebruik maakt van informatie terwijl u dat vergeten hoort te zijn.
 
-No Value Of Life (NVOL)
+#### No Value Of Life (NVOL)
 
 Wanneer u wordt bedreigd of uzelf in een situatie verkeerd waarin u gevaar loopt voor uw eigen leven dan zal u hier realistisch in moeten meewerken.
 
 Wanneer er een wapen op u staat gericht zal u ten alle tijden moeten meewerken tenzij er een andere mogelijk ontstaat.
 
 Het starten van een actie tijdens een scenario waarbij het uw eigen leven gaat kosten, met de intentie om iemand daarin mee te nemen is verboden. Dus bijvoorbeeld wanneer u onder schot wordt gehouden door een gang om dan alsnog uw wapen te trekken en 2 personen neerschiet terwijl er meerdere wapens op u gericht staan.
-
+***
 ### Greenzone
 
 GREENZONES
@@ -212,20 +199,20 @@ Greenzones zijn veilige zones waarin een persoon zich hoort te gedragen. In deze
 
 De volgende locaties vallen onder de greenzone:
 
-* Ziekenhuis
+#### * Ziekenhuis
 
 <img src="https://i.imgur.com/mmF8Ehz.png?width=403&height=230" />
 
-* Politiebureau
+#### * Politiebureau
 
 <img src="https://i.imgur.com/lcaWIgI.pngwidth=403&height=230" />
 
-* Koninklijke Marechausseebureau
+#### * Koninklijke Marechausseebureau
 
 <img src="https://imgur.com/Fk7ZMtK.png" />
 
 Het is NIET toegestaan om vanuit een scenario naar een greenzone te vluchten om daar te schuilen. In dit geval zal het scenario zich gewoon voortzetten.
-
+***
 ### Clips
 Het maken van clips is ten strengste aangeraden aangezien dit bewijs is voor uzelf voor al uw daden en acties (bijv. Aankopen) in-game.
 
@@ -236,7 +223,7 @@ Er zijn genoeg clipprogramma's die u kunnen helpen dit te doen.
 Staff zal in de meeste gevallen vragen om een clip.
 
 Zonder clip kan een stafflid géén refund doen.
-
+***
 ### Criminele regels:
 
 Belangrijke regels criminelen:
@@ -277,7 +264,7 @@ Tijdens een overval kan er géén geld van de bedrijfsrekening worden gestolen.
 Vrienden als hostage gebruiken bij een overval is verboden en hiervoor zullen sancties worden opgelegd.
 Het is verboden om (ANO) VPN te gebruiken via Twitter, de politie heeft hacksystemen.
 Er mogen maximaal 3 eisen worden gesteld tijdens een overval.
-
+***
 ### Overvallen burgers
 
 Gijzeling/beroven van spelers: actieve deelname mag vanaf 3 actieve agenten.
@@ -305,7 +292,7 @@ Random shootouts en dergelijke zijn NIET toegestaan.
 Het vermoorden van een hostage is toegestaan wanneer het scenario escaleert en er vanuit de andere partij niet wordt geluisterd of meegewerkt.
 
 Het geven van een vergeetpil is niet toegestaan.
-
+***
 ### Ontvoeringen
 Het ontvoeren van burgers is toegestaan op een verantwoordelijke manier met goed vertoonde RP. 
 
@@ -316,7 +303,7 @@ Een persoon mag maximaal voor 1 uur ontvoerd worden.
 Voor het ontvoeren van een persoon dienen er minimaal 2 actieve agenten in de stad aanwezig te zijn.
 
 Het geven van een vergeetpil is niet toegestaan.
-
+***
 ### Scammen
 Voertuigen scammen is verboden.
 
@@ -365,7 +352,7 @@ Het vragen van losgeld voor een politieagent is toegestaan met een maximaal bedr
 Het is niet toegestaan om meerdere ontvoeringen op dezelfde dag te doen.
 
 Het geven van een vergeetpil is niet toegestaan.
-
+***
 ### Wapenwet
 
 Wanneer er een mes op u wordt gericht en u bent binnen steekafstand dan dient u ten alle tijden mee te werken.
@@ -394,7 +381,7 @@ Het is wel toegestaan om vrienden te bereiken die u kunnen helpen.
 Het voorbereidend plaatsen van voertuigen op strategische plekken om de achtervolging door te zetten is wel toegestaan wanneer dit vooraf gebeurt en niet tijdens het scenario.
 
 Bij een fatale crash of botsing dient u mee te werken aan de RP van een ongeluk. U zult niet in staat zijn om zomaar het voertuig te verlaten en weg te rennen in dit geval.
-
+***
 ### Communicatiemiddelen
 Wanneer uw communicatie wordt afgepakt (telefoon/portofoon) dan bent u niet meer in staat om anderen te laten weten wat er gaande is.
 
@@ -423,4 +410,4 @@ Tijdens een gangwar zijn er GEEN safezones.
 Het is niet toegestaan om zonder Vliebrevet te vliegen. (Elke 01 van een overheidsjob bezit over een vliegbrevet **wanneer zij over deze baan beschikken**)
 
 Het is niet toegestaan om je voertuig te verkopen of uit te lenen aan iemand zonder vliegbrevet, doe je dit wel krijg je een ontzeg van je vliegbrevet.
-
+***
