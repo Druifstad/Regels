@@ -1,4 +1,4 @@
-# Druifstad Regels
+# 🍇・Druifstad Regels
 - [🌍 Server Regels](https://github.com/Druifstad/Regels#server-regels)
 - [❌ Hacking / Bug Exploits / Abuse](https://github.com/Druifstad/Regels#hacking-bug-exploit-abuse)
 - [🏃‍♂️Roleplay](https://github.com/Druifstad/Regels#roleplay)
