@@ -410,4 +410,3 @@ Tijdens een gangwar zijn er GEEN safezones.
 Het is niet toegestaan om zonder Vliebrevet te vliegen. (Elke 01 van een overheidsjob bezit over een vliegbrevet **wanneer zij over deze baan beschikken**)
 
 Het is niet toegestaan om je voertuig te verkopen of uit te lenen aan iemand zonder vliegbrevet, doe je dit wel krijg je een ontzeg van je vliegbrevet.
-***
