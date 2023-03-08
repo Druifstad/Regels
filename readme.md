@@ -201,15 +201,9 @@ De volgende locaties vallen onder de greenzone:
 
 #### * Ziekenhuis
 
-<img src="https://i.imgur.com/mmF8Ehz.png?width=403&height=230" />
-
 #### * Politiebureau
 
-<img src="https://i.imgur.com/lcaWIgI.pngwidth=403&height=230" />
-
 #### * Koninklijke Marechausseebureau
-
-<img src="https://imgur.com/Fk7ZMtK.png" />
 
 Het is NIET toegestaan om vanuit een scenario naar een greenzone te vluchten om daar te schuilen. In dit geval zal het scenario zich gewoon voortzetten.
 ***
